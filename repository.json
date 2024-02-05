@@ -1,5 +1,5 @@
 {
-    "name": "Bohdans Hass.io Add-ons",
-    "url": "https://github.com/bohdan-s/hassio-repository",
+    "name": "Bohdans SunGather Add-on (with dependency fix)",
+    "url": "https://github.com/illuzn/hassos-sungather",
     "maintainer": "Bohdan https://github.com/bohdan-s"
   }
